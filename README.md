@@ -1,16 +1,17 @@
-## Hi there 👋
+ Hi there, I'm Pedro Israel! 👋
 
-<!--
-**Dark-Knight17/Dark-Knight17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on automating my finance
+- 🌱 I’m currently learning web & moblie(IOS) development
+- 👯 I’m looking to collaborate on fun and impactful projects
+- 🤔 I’m looking for help with solving real-world problems through tech
+- 💬 Ask me about web development, automation, and problem-solving
+- 📫 reach out to me at pedroisrael980@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I see life as a mind game where the greatest minds win
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+- 🖥️ Languages: Java ☕ | Python 🐍 | JavaScript 🟡 | TypeScript 🔵 | HTML 🟠 | CSS 🔵
+- 🎨 Frontend: React.js ⚛️
+- 🛠️ Backend: Django 🚀
+- 💾 Databases: MySQL 🛢️
+- 🛠️ Tools & Platforms: Git 🌀 | GitHub 🐙
